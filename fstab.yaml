@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/msimonnn/adobe-commerce-as-a-cloud-service-boilerplate-v2/
+    type: markup
+
+folders:
+  /products/: /products/default
